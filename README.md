@@ -1,10 +1,8 @@
 ### Olá!
 
 - 🔭 Chatbot Developer 
-- 🌱 Atualmente estou estudando ASK 
+- 🌱 Atualmente estou estudando AWS Cloud
 - 😄 Pronouns: ele/dele
-
-
 
 
 <div style="display: inline_block"><br>
