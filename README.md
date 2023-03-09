@@ -1,6 +1,4 @@
-### Olá! Pode me chamar de smile👋
-
-
+### Olá!
 
 - 🔭 Chatbot Developer 
 - 🌱 Atualmente estou estudando ASK 
